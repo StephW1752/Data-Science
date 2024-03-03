@@ -1,1 +1,1 @@
-print ("Git is awesome!")
+print (input("Enter text here:"))
